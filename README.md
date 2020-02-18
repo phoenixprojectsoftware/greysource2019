@@ -1,5 +1,13 @@
-Half Life 1 SDK LICENSE
-======================
+# GREY SOURCE SOFTWARE DEVELOPMENT KIT
+## MASTER BRANCH
+The master branch contains the unmodified SDK of Grey Source. You can clone this branch to make your own Grey Source game, from the original engine just in case you don't want any propietary versions of Grey Source used for games developed by PHOENIX.
+
+The branch will always be up-to-date with the latest release of Grey Source.
+
+## CORRIDORS BRANCH
+The CORRIDORS branch contains the modified SDK of Grey Source specifically built for the game CORRIDORS. The branch is up-to-date with the development of CORRIDORS.
+
+# Half Life 1 SDK LICENSE
 
 Half Life 1 SDK Copyright© Valve Corp.  
 

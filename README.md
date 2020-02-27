@@ -2,6 +2,9 @@
 ## ABOUT
 Grey Source is a modified Half-Life 1 engine made specifically for creating standalone games with an early 2000s feel. The aim of the engine is to make old new again.
 
+## UPDATE BUILD NUMBER FORMAT
+The first two digits of of the build number are the year of release. The second two are the month. So, if a build were to be released in January 2001, the build number would be ``0101``. If a build was released in June 2013, the build number would be ``1306``.
+
 # UPDATES
 ## NEW ADDITIONS IN BUILD 2001
 - Viewroll (restored after Valve's removal of it in 2003)
@@ -14,7 +17,6 @@ Grey Source is a modified Half-Life 1 engine made specifically for creating stan
 # BRANCHES
 ## MASTER BRANCH
 The master branch contains the unmodified SDK of Grey Source. You can clone this branch to make your own Grey Source game, from the original engine just in case you don't want any propietary versions of Grey Source used for games developed by PHOENIX.
-
 The branch will always be up-to-date with the latest release of Grey Source.
 
 ## CORRIDORS BRANCH

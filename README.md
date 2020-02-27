@@ -2,6 +2,7 @@
 ## ABOUT
 Grey Source is a modified Half-Life 1 engine made specifically for creating standalone games with an early 2000s feel. The aim of the engine is to make old new again.
 
+# UPDATES
 ## NEW ADDITIONS IN BUILD 2001
 - Viewroll (restored after Valve's removal of it in 2003)
 - Viewmodel bob tilt (restored after Valve's removal of it in 2003)

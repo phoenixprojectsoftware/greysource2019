@@ -19,8 +19,9 @@ The branch will always be up-to-date with the latest release of Grey Source.
 ## CORRIDORS BRANCH
 The CORRIDORS branch contains the modified SDK of Grey Source specifically built for the game CORRIDORS. The branch is up-to-date with the development of CORRIDORS.
 
-# HALF LIFE 1 SDK LICENSE
-
+# LICENSE
+Since we are using code copyrighted by id Software and Valve Corp. in the years 1996, 1997 and 2002, we are required to include the license written by the legal team at Valve Corp.
+## HALF LIFE 1 SDK LICENSE
 Half Life 1 SDK Copyright© Valve Corp.  
 
 THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE CORPORATION (“Valve”).  PLEASE READ IT BEFORE DOWNLOADING OR USING THE HALF LIFE 1 SDK (“SDK”). BY DOWNLOADING AND/OR USING THE SOURCE ENGINE SDK YOU ACCEPT THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE THE SDK.

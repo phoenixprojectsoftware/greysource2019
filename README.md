@@ -1,4 +1,16 @@
 # GREY SOURCE SOFTWARE DEVELOPMENT KIT
+## ABOUT
+Grey Source is a modified Half-Life 1 engine made specifically for creating standalone games with an early 2000s feel. The aim of the engine is to make old new again.
+
+## NEW ADDITIONS IN BUILD 2001
+- Viewroll (restored after Valve's removal of it in 2003)
+- Viewmodel bob tilt (restored after Valve's removal of it in 2003)
+
+## NEW ADDITIONS IN BUILD 2002
+- Minor bug fixes
+- Complete code overhaul, which allows the Visual Studio solution to build under VS 15 2017 and VS 15 2019.
+
+# BRANCHES
 ## MASTER BRANCH
 The master branch contains the unmodified SDK of Grey Source. You can clone this branch to make your own Grey Source game, from the original engine just in case you don't want any propietary versions of Grey Source used for games developed by PHOENIX.
 
@@ -7,7 +19,7 @@ The branch will always be up-to-date with the latest release of Grey Source.
 ## CORRIDORS BRANCH
 The CORRIDORS branch contains the modified SDK of Grey Source specifically built for the game CORRIDORS. The branch is up-to-date with the development of CORRIDORS.
 
-# Half Life 1 SDK LICENSE
+# HALF LIFE 1 SDK LICENSE
 
 Half Life 1 SDK Copyright© Valve Corp.  
 
@@ -26,35 +38,7 @@ LIMITATION OF LIABILITY.  IN NO EVENT SHALL VALVE OR ITS SUPPLIERS BE LIABLE FOR
  
 If you would like to use the SDK for a commercial purpose, please contact Valve at sourceengine@valvesoftware.com.
 
-
-Half-Life 1
-======================
-
-This is the README for the Half-Life 1 engine and its associated games.
-
-Please use this repository to report bugs and feature requests for Half-Life 1 related products.
-
-Reporting Issues
-----------------
-
-If you encounter an issue while using Half-Life 1 games, first search the [issue list](https://github.com/ValveSoftware/halflife/issues) to see if it has already been reported. Include closed issues in your search.
-
-If it has not been reported, create a new issue with at least the following information:
-
-- a short, descriptive title;
-- a detailed description of the issue, including any output from the command line;
-- steps for reproducing the issue;
-- your system information.\*; and
-- the `version` output from the in‐game console.
-
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
-
-\* The preferred and easiest way to get this information is from Steam's Hardware Information viewer from the menu (`Help -> System Information`). Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`. Paste this information into your report, preferably in a code block.
-
-Conduct
--------
-
-
+# CONDUCT
 There are basic rules of conduct that should be followed at all times by everyone participating in the discussions.  While this is generally a relaxed environment, please remember the following:
 
 - Do not insult, harass, or demean anyone.

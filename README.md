@@ -12,7 +12,10 @@ The first two digits of of the build number are the year of release. The second 
 
 ## NEW ADDITIONS IN BUILD 2002
 - Minor bug fixes
-- Complete code overhaul, which allows the Visual Studio solution to build under VS 15 2017 and VS 15 2019.
+- Complete code overhaul, which allows the Visual Studio solution to build under VS 14 2017 and VS 15 2019.
+
+## NEW ADDITIONS IN BUILD 2003
+- Improvments to viewmodel bob tilt and viewroll
 
 # BRANCHES
 ## MASTER BRANCH

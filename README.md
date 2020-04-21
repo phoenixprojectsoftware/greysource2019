@@ -22,9 +22,6 @@ The first two digits of of the build number are the year of release. The second 
 The master branch contains the unmodified SDK of Grey Source. You can clone this branch to make your own Grey Source game, from the original engine just in case you don't want any propietary versions of Grey Source used for games developed by PHOENIX.
 The branch will always be up-to-date with the latest release of Grey Source.
 
-## CORRIDORS BRANCH
-The CORRIDORS branch contains the modified SDK of Grey Source specifically built for the game CORRIDORS. The branch is up-to-date with the development of CORRIDORS.
-
 # LICENSE
 Since we are using code copyrighted by id Software and Valve Corp. in the years 1996, 1997 and 2002, we are required to include the license written by the legal team at Valve Corp.
 ## HALF LIFE 1 SDK LICENSE

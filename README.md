@@ -1,5 +1,5 @@
-# GREY SOURCE 2020 SOFTWARE DEVELOPMENT KIT
-This is the SDK for Grey Source 2020. For Grey Source 2021, go to https://github.com/phoenixprojectsoftware/greysource
+# GREY SOURCE 2019 SOFTWARE DEVELOPMENT KIT
+This is the SDK for Grey Source 2019. For Grey Source 2021, go to https://github.com/phoenixprojectsoftware/greysource
 ## ABOUT
 Grey Source is a modified Half-Life 1 engine made specifically for creating standalone games with an early 2000s feel. The aim of the engine is to make old new again.
 
